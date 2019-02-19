@@ -1,0 +1,5 @@
+# Events
+
+There are various terms "Event", "Visit", "Episode", "Encounter". These all refer to an experience of a patient over a period of time. This experience is recorded in the bills (claims) that were generated from the care the patient recieved. Often researchers are not interested in claims per se. What we really want is information about the patient experience over time.
+
+

@@ -1,0 +1,25 @@
+# First Principles
+
+
+Claim forms
+
+UB04
+
+CMS 1500
+
+
+Claim level data elements. These are also referred to as header level data elements.
+
+**Patient identifier**
+
+
+How do we classify a claim? It is helpful to be able to put a claim into one of a number of categories. 
+
+Professional vs. Facility
+Inpaitient vs. Outpatient
+
+Where did the care happen? Who provided the care? What care was delivered? What was the primary reason for the care?
+
+We would like nice clean answers to these questions gleaned from information on the claim.
+
+
